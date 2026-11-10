@@ -48,7 +48,7 @@ Read the complete Project Analysis in Markdown: HERE
 
 To view these Tableau Dashboards in Tableau Public, click on the hypertext link.
 
-#MakeoverMonday 2025 Week 32 | Benefits of Working from Home: https://public.tableau.com/views/MakeoverMonday2020Week32BenefitsofWorkingfromHome/WORKFROMHOME?:language=en-GB&:display_count=n&:origin=viz_share_link
+#MakeoverMonday 2025 Week 32 | Benefits of Working from Home: https://public.tableau.com/views/MakeoverMonday2025Week32BenefitsofWorkingfromHome/WORKFROMHOME?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 MakeoverMonday
 
@@ -60,15 +60,15 @@ GROVER Junior Data Analyst Case Study Dashboard: https://public.tableau.com/view
 
 GROVER Junior Data Analyst
 
-Retail Pricing Analytics Dashboard: https://public.tableau.com/app/profile/priyankajhatheanalyst/viz/RetailPriceAnalyticsDashboard/RetailPricingAnalytics#2
+Retail Pricing Analytics Dashboard: https://public.tableau.com/app/profile/piyushmishratheanalyst/viz/RetailPriceAnalyticsDashboard/RetailPricingAnalytics#2
 
 Retail Price Analytics
 
-E-commerce Sales Dashboard: https://public.tableau.com/app/profile/priyankajhatheanalyst/viz/eCommerceSales_16310934566250/ExploratoryVisualAnalysis
+E-commerce Sales Dashboard: https://public.tableau.com/app/profile/piyushmishratheanalyst/viz/eCommerceSales_16310934566250/ExploratoryVisualAnalysis
 
 E-commerce Sales
 
-Sales SuperStore Deep Data Analysis (5 Dashboards): https://public.tableau.com/app/profile/priyankajhatheanalyst/viz/SuperStoreDataset5Dashboards/1KPIDashboard
+Sales SuperStore Deep Data Analysis (5 Dashboards): https://public.tableau.com/app/profile/piyushmishratheanalyst/viz/SuperStoreDataset5Dashboards/1KPIDashboard
 
 1 KPI Dashboard  
 KPI Dashboard
