@@ -5,7 +5,6 @@ Following are my projects in SQL, Python, Tableau, Excel, Power BI & Machine Lea
 You can take a look at my GitHub: https://github.com/piyush-mishra45
 
 You can also take a look at my LinkedIn: linkedin.com/in/piyush-kumar-mishra-b94a3b30b
-
 **Name:** Piyush Kumar Mishra  
 **Education:** B.Tech in Computer Science & Engineering  
 **University:** Dr. A.P.J. Abdul Kalam Technical University (AKTU)  
@@ -48,7 +47,7 @@ Read the complete Project Analysis in Markdown: HERE
 
 To view these Tableau Dashboards in Tableau Public, click on the hypertext link.
 
-#MakeoverMonday 2020 Week 32 | Benefits of Working from Home: https://public.tableau.com/views/MakeoverMonday2020Week32BenefitsofWorkingfromHome/WORKFROMHOME?:language=en-GB&:display_count=n&:origin=viz_share_link
+#MakeoverMonday 2025 Week 32 | Benefits of Working from Home: https://public.tableau.com/views/MakeoverMonday2020Week32BenefitsofWorkingfromHome/WORKFROMHOME?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 MakeoverMonday
 
@@ -125,4 +124,4 @@ My focus areas include Data Analytics, Statistical Analysis, Data Visualization,
 
 **GitHub:** https://github.com/piyush-mishra45
 
-**LinkedIn:** Add your LinkedIn Profile URL
+**LinkedIn:** linkedin.com/in/piyush-kumar-mishra-b94a3b30b
