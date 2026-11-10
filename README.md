@@ -5,6 +5,7 @@ Following are my projects in SQL, Python, Tableau, Excel, Power BI & Machine Lea
 You can take a look at my GitHub: https://github.com/piyush-mishra45
 
 You can also take a look at my LinkedIn: linkedin.com/in/piyush-kumar-mishra-b94a3b30b
+
 **Name:** Piyush Kumar Mishra  
 **Education:** B.Tech in Computer Science & Engineering  
 **University:** Dr. A.P.J. Abdul Kalam Technical University (AKTU)  
