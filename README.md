@@ -1,138 +1,128 @@
 # Portfolio Projects
-## Following are my projects in SQL, Python, Tableau & Excel: <br />
-#### *You can take a look at my personal website : [www.priyankajha24.wixsite.com](www.priyankajha24.wixsite.com/aboutme)* <br />
-#### *You can also take a look at my Linkedin : [PriyankaJhaTheAnalyst](https://www.linkedin.com/in/priyankajhatheanalyst/)* <br />
 
+Following are my projects in SQL, Python, Tableau, Excel, Power BI & Machine Learning:
 
+You can take a look at my GitHub: https://github.com/piyush-mishra45
 
-- [x] **SQL & Tableau** - 
-  - Instagram Clone Data Analysis Project<br />
-*See on Tableau Public:* **[Dashboard](https://public.tableau.com/views/InstagramCloneDataAnalysisDashboard/InstagramCloneDataAnalysisDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)**<br />
-*Review the Data Insertion SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/Instagram%20Clone%20SQL%20-%20Database%20%26%20Inserting%20Data.sql)**<br />
-*Review the Data Exploration SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/Instagram%20Clone%20SQL%20-%20Exploratory%20Data%20Analysis.sql)**<br />
+You can also take a look at my LinkedIn: linkedin.com/in/piyush-kumar-mishra-b94a3b30b
 
-![Instagram Clone Dashboard](visuals/InstagramCloneDashboard.png)
+**Name:** Piyush Kumar Mishra  
+**Education:** B.Tech in Computer Science & Engineering  
+**University:** Dr. A.P.J. Abdul Kalam Technical University (AKTU)  
+**Profile:** Aspiring Data Analyst | Data Scientist | AI & ML Enthusiast
 
+## SQL & Tableau -
 
+Instagram Clone Data Analysis Project
 
-- [x] **Hadoop (Hive)** - 
-  - NYC Yellow Taxi Records: Data Analysis <br />
-*Review the HiveQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/Hadoop(Hive)%20-%20NYC%20Yellow%20Taxi%20Case%20Study.txt)**<br />
+See on Tableau Public: Dashboard  
+Review the Data Insertion SQL Script: HERE  
+Review the Data Exploration SQL Script: HERE  
+Instagram Clone Dashboard
 
+## Hadoop (Hive) -
 
+NYC Yellow Taxi Records: Data Analysis  
+Review the HiveQL Script: HERE
 
-- [x] **SQL** - 
-  - Nashville Housing Dataset: Data Cleaning <br />
-*Review the SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/SQL%20-%20Data%20Cleaning.sql)**<br />
+## SQL -
 
-  - COVID-19 Dataset: Data Exploration  <br />
-*Review the SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/SQL%20-%20Data%20Exploration.sql)**<br />
+Nashville Housing Dataset: Data Cleaning  
+Review the SQL Script: HERE
 
+COVID-19 Dataset: Data Exploration  
+Review the SQL Script: HERE
 
+## PostgreSQL -
 
-- [x] **PostgreSQL** - 
-  - Business Intelligence Challenge <br />
-*Review the PostgreSQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/PostgreSQL-BI-CHALLENGE)**<br />
-*Review the Google Slides Deck to see the Data Visualizations:* **[HERE](https://drive.google.com/file/d/1JIDnsaLXAx2qnWM86yfrRKLWF5B_ofHU/view?usp=sharing)**<br />
+Business Intelligence Challenge  
+Review the PostgreSQL Script: HERE  
+Review the Google Slides Deck to see the Data Visualizations: HERE
 
+## Python -
 
+Movies Industry Dataset: Exploratory Data Analysis Project  
+Read the complete Project Analysis in Markdown: HERE
 
-- [x] **Python** - 
-  - Movies Industry Dataset: Exploratory Data Analysis Project <br />
-*Read the complete Project Analysis in Markdown:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/Python_MoviesIndustry_EDA/blob/main/README.md)**<br />
+## Tableau -
 
+To view these Tableau Dashboards in Tableau Public, click on the hypertext link.
 
+#MakeoverMonday 2020 Week 32 | Benefits of Working from Home: https://public.tableau.com/views/MakeoverMonday2020Week32BenefitsofWorkingfromHome/WORKFROMHOME?:language=en-GB&:display_count=n&:origin=viz_share_link
 
-- [x] **Tableau** - 
+MakeoverMonday
 
-*To view these Tableau Dashboards in Tableau Public, click on the hypertext link.*
+Municipality Data Analysis Dashboard: https://public.tableau.com/views/MunicipalityDashboard/Municipality?:language=en-GB&:display_count=n&:origin=viz_share_link
 
-- #MakeoverMonday 2020 Week 32 | Benefits of Working from Home: https://public.tableau.com/views/MakeoverMonday2020Week32BenefitsofWorkingfromHome/WORKFROMHOME?:language=en-GB&:display_count=n&:origin=viz_share_link
+Municipality Data Analysis
 
-![MakeoverMonday](visuals/WorkFromHome.png)  
+GROVER Junior Data Analyst Case Study Dashboard: https://public.tableau.com/views/GROVERJuniorDataAnalystCaseStudy/GroverDataAnalystDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link
 
-- Municipality Data Analysis Dashboard: https://public.tableau.com/views/MunicipalityDashboard/Municipality?:language=en-GB&:display_count=n&:origin=viz_share_link
+GROVER Junior Data Analyst
 
-![Municipality Data Analysis](visuals/MunicipalityDataAnalysisDashboard.png)  
+Retail Pricing Analytics Dashboard: https://public.tableau.com/app/profile/priyankajhatheanalyst/viz/RetailPriceAnalyticsDashboard/RetailPricingAnalytics#2
 
-- GROVER Junior Data Analyst Case Study Dashboard: https://public.tableau.com/views/GROVERJuniorDataAnalystCaseStudy/GroverDataAnalystDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link
+Retail Price Analytics
 
-![GROVER Junior Data Analyst](visuals/GroverDataAnalystDashboard.png)  
+E-commerce Sales Dashboard: https://public.tableau.com/app/profile/priyankajhatheanalyst/viz/eCommerceSales_16310934566250/ExploratoryVisualAnalysis
 
+E-commerce Sales
 
-- Retail Pricing Analytics Dashboard: https://public.tableau.com/app/profile/priyankajhatheanalyst/viz/RetailPriceAnalyticsDashboard/RetailPricingAnalytics#2
+Sales SuperStore Deep Data Analysis (5 Dashboards): https://public.tableau.com/app/profile/priyankajhatheanalyst/viz/SuperStoreDataset5Dashboards/1KPIDashboard
 
-![Retail Price Analytics](visuals/RetailPricingAnalytics.png)
+1 KPI Dashboard  
+KPI Dashboard
 
+2 Top-Down Dashboard  
+Top Down Dashboard
 
-- E-commerce Sales Dashboard: https://public.tableau.com/app/profile/priyankajhatheanalyst/viz/eCommerceSales_16310934566250/ExploratoryVisualAnalysis
+3 Q&A Dashboard  
+Q&A Dashboard
 
-![E-commerce Sales](visuals/E-commerceRetail.png)
+4 Bottom-Up Dashboard  
+Bottom Up Dashboard
 
+5 Geo Chart  
+Geo Chart
 
-- Sales SuperStore Deep Data Analysis (5 Dashboards): https://public.tableau.com/app/profile/priyankajhatheanalyst/viz/SuperStoreDataset5Dashboards/1KPIDashboard 
-      
-      1 KPI Dashboard
+World Bank CO2 Emissions Dashboard: https://public.tableau.com/views/WorldBankCo2Emissions_16149182681650/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
 
-![KPI Dashboard](visuals/KPIDashboard.png)
+World Bank CO2 Emission
 
-      2 Top-Down Dashboard
-      
-![Top Down Dashboard](visuals/TopDownDashboard.png)
+London Bus Safety Dashboard: https://public.tableau.com/views/TableauCertificationCourse2/ChartsDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link
 
-      3 Q&A Dashboard
-      
-![Q&A Dashboard](visuals/Q&ADashboard.png)
+London Bus Safety
 
-      4 Bottom-Up Dashboard
-      
-![Bottom Up Dashboard](visuals/BottomUpDashboard.png)
+## Excel -
 
-      5 Geo Chart
-      
-![Geo Chart](visuals/GeoChart.png)
+Kindly download these Excel files from this repository and view them in Microsoft Excel.
 
+Sales Superstore Sample: Sales Performance Dashboard  
+Dashboard
 
+NetTRON Network Infrastructure Data : LOOKUP, INDEX, MATCH, SUMIFS  
+Dashboard
 
-- World Bank CO2 Emissions Dashboard: https://public.tableau.com/views/WorldBankCo2Emissions_16149182681650/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link 
+Dashboard
 
-![World Bank CO2 Emission](visuals/WorldBankCO2Emission.png)
+Shipping Data: Pivot Tables, Pivot Chart, Slicers  
+Dashboard
 
+Project Costing Model Data: Scenario Manager, Solver (Data Modeling)  
+Dashboard
 
-- London Bus Safety Dashboard: https://public.tableau.com/views/TableauCertificationCourse2/ChartsDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link 
+Dashboard
 
-![London Bus Safety](visuals/LondonBusSafety.png)
+Dashboard
 
+---
 
+## About Me
 
-- [x] **Excel** - 
+I am Piyush Kumar Mishra, a Computer Science & Engineering graduate interested in Data Analytics, Data Science, Machine Learning, and Artificial Intelligence.
 
-*Kindly download these Excel files from this repository and view them in Microsoft Excel.*
+My focus areas include Data Analytics, Statistical Analysis, Data Visualization, Predictive Modeling, and AI-powered solutions.
 
+**GitHub:** https://github.com/piyush-mishra45
 
-- Sales Superstore Sample: Sales Performance Dashboard <br />
-
-![Dashboard](visuals/excel/Dashboards.png)
-
-
-- NetTRON Network Infrastructure Data : LOOKUP, INDEX, MATCH, SUMIFS <br />
-
-![Dashboard](visuals/excel/INDEX.png)
-
-![Dashboard](visuals/excel/LOOKUP.png)
-
-
-- Shipping Data: Pivot Tables, Pivot Chart, Slicers <br />
-
-![Dashboard](visuals/excel/PivotReports.png)
-
-
-- Project Costing Model Data: Scenario Manager, Solver (Data Modeling)
-
-![Dashboard](visuals/excel/DataModeling.png)
-
-![Dashboard](visuals/excel/Solver.png)
-
-![Dashboard](visuals/excel/ScenarioManager.png)
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**LinkedIn:** Add your LinkedIn Profile URL
